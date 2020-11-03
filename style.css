@@ -1,0 +1,25 @@
+body {
+  color: #1e1e1e;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0 auto;
+  padding: 30px 20px 10px 20px;
+  max-width: 500px;
+  font-size: 16px;
+}
+
+.date {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.link {
+  color: #fff;
+  padding: 0 10px;
+  border-radius: 3px;
+  background-color: #fc7b5a;
+}
+
+.link:hover {
+  background-color: #fccb5a;
+  color: #1e1e1e;
+}
