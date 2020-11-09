@@ -13,13 +13,10 @@ body {
 }
 
 .link {
-  color: #fff;
-  padding: 0 10px;
-  border-radius: 3px;
-  background-color: #fc7b5a;
-}
+  color: #cc320c;
+/*  background-color: #fc7b5a;
+*/}
 
 .link:hover {
-  background-color: #fccb5a;
-  color: #1e1e1e;
+  color: #cc920c;
 }
